@@ -30,7 +30,7 @@
 
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 관심있는 분야...
+  :fire: 관심 분야...
 </summary>
    <br>
   
