@@ -31,10 +31,13 @@
 </summary>
    <br>
   
-  **AI
-  NLP
-  RAG
-  FINTUEN**
+  **AI**
+  
+  **NLP**
+  
+  **RAG**
+  
+  **FINTUEN**
 
 
 </details>
@@ -45,8 +48,9 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내 블로그...
 </summary>
    <br>
-  ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) = https://www.instagram.com/song_jh2001
-  ![velog]()
+  <a href="https://www.instagram.com/song_jh2001"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/song_jh2001")</a>
+  
+  <a href="https://velog.io/@gathers"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gathers"/></a>
   
   
 
