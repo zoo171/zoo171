@@ -30,7 +30,7 @@
 
 <details>
 <summary>
-  :fire: 관심 분야...
+  :fire:  관심 분야...
 </summary>
    <br>
   
@@ -48,7 +48,7 @@
 
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내 블로그...
+  :computer: 내 블로그...
 </summary>
    <br>
   <a href="https://www.instagram.com/song_jh2001"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/song_jh2001")</a>
