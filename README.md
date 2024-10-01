@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
 <!--
 **zoo171/zoo171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
