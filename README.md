@@ -2,6 +2,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoo171&include_all_commits=true&show_icons=true&theme=solarized-light)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoo171)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <details>
 <summary>
@@ -59,8 +62,8 @@
 
 
 **이메일**
-- **naver** : <a href="mailto:snamhun2@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snamhun2@naver.com"/></a>
-- **google** : <a href="mailto:gathers2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gathers2001@gmail.com"/></a>
+- **naver** : **snamhun2@naver.com**
+- **google** :  **gathers2001@gmail.com**
 
 
 <!--
